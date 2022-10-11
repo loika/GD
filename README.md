@@ -13,14 +13,14 @@ the goal is to solve the equation $A \cdot U = b$. Using a gradient descent meth
 - $A$  matrix
 - $b$ vector 
 - $X$ coordinate vector
-- $U$ a  vector 
+- $U$ a  solve vector 
 
 subject to :
 
 - $N$ is a interger such that $N > 1$
 - $A$ symmetric matrix defined semi positive
 - $b$ $\in \mathbb{R}^N$
-- $0<X<1$
+- $0 < X < 1$
 - $U$ such as $f(U) = 0$
 
 
